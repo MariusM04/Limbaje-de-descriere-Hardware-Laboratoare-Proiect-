@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/George/OneDrive/Facultate/AN 3/sem_2/LDH_Lab/TEMA_01/debug/sim
+vcounter
+Z0 !s110 1772188887
+!i10b 1
+!s100 H[gZl_Kebd@iV7`BgnK9a3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IGNE0R<7nQiV]hA>h9eDSa3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Facultate ANUL 3/Sem 2/LDH - Blanaru/TEMA_01/debug/sim
+w1772188538
+8../../hdl/counter.v
+F../../hdl/counter.v
+!i122 92
+L0 1 57
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1772188887.000000
+!s107 ../../hdl/counter.v|
+!s90 -reportprogress|300|../../hdl/counter.v|
+!i113 1
+Z6 tCvgOpt 0
+vtest_bench
+R0
+!i10b 1
+!s100 =U7<aJNI<jKV9C:^S:7Kc0
+R1
+Ia2]SQ4dM_?[MCaGKM<n^P2
+R2
+R3
+w1772188503
+8../hdl/tb.v
+F../hdl/tb.v
+!i122 93
+L0 3 46
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../hdl/tb.v|
+!s90 -reportprogress|300|../hdl/tb.v|
+!i113 1
+R6

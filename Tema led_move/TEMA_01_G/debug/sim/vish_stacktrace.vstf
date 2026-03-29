@@ -1,0 +1,79 @@
+# Current time Mon Feb 23 12:09:30 2026
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 745cc952. Traceback:
+# 0    0x745cc952: 'TkSetWindowMenuBar + 0x59b2'
+# 1    0x745ccbea: 'TkSetWindowMenuBar + 0x5c4a'
+# 2    0x744a653b: 'TclServiceIdle + 0x4b'
+# 3    0x00703c68: 'WlfContextItem::`vector deleting destructor' + 0x89c8'
+# 4    0x00525a56: 'EnumDispProc + 0x2fed6'
+# 5    0x00525b40: 'EnumDispProc + 0x2ffc0'
+# 6    0x743e1fae: 'TclInvokeStringCommand + 0xbe'
+# 7    0x743e39f1: 'TclNREvalObjv + 0x3e1'
+# 8    0x743e3a49: 'TclNRRunCallbacks + 0x49'
+# 9    0x743e4ef9: 'Tcl_EvalEx + 0x8b9'
+# 10   0x743e6384: 'Tcl_GlobalEval + 0x24'
+# 11   0x004f88ac: 'EnumDispProc + 0x2d2c'
+# 12   0x004f9337: 'EnumDispProc + 0x37b7'
+# 13   0x004f72f9: 'EnumDispProc + 0x1779'
+# 14   0x743e1fae: 'TclInvokeStringCommand + 0xbe'
+# 15   0x743e39f1: 'TclNREvalObjv + 0x3e1'
+# 16   0x743e3a49: 'TclNRRunCallbacks + 0x49'
+# 17   0x743e563c: 'Tcl_EvalObjEx + 0x2c'
+# 18   0x005516d7: 'EnumDispProc + 0x5bb57'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Mon Feb 23 12:09:30 2026
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 745cc952. Traceback:
+# 0    0x745cc952: 'TkSetWindowMenuBar + 0x59b2'
+# 1    0x745ccbea: 'TkSetWindowMenuBar + 0x5c4a'
+# 2    0x744a653b: 'TclServiceIdle + 0x4b'
+# 3    0x7443efbe: 'TclInThreadExit + 0xce'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Mon Feb 23 12:09:30 2026
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 745cc952. Traceback:
+# 0    0x745cc952: 'TkSetWindowMenuBar + 0x59b2'
+# 1    0x745ccbea: 'TkSetWindowMenuBar + 0x5c4a'
+# 2    0x744a653b: 'TclServiceIdle + 0x4b'
+# 3    0x7443efbe: 'TclInThreadExit + 0xce'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Mon Feb 23 12:09:30 2026
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 745cc952. Traceback:
+# 0    0x745cc952: 'TkSetWindowMenuBar + 0x59b2'
+# 1    0x745ccbea: 'TkSetWindowMenuBar + 0x5c4a'
+# 2    0x744a653b: 'TclServiceIdle + 0x4b'
+# 3    0x7443efbe: 'TclInThreadExit + 0xce'
+StackWalk failed 299
+# End of Stack Trace
+
